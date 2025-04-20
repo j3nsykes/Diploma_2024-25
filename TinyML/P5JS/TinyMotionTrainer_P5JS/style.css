@@ -1,0 +1,36 @@
+html, body {
+  margin: 0;
+  padding: 0;
+    font-family: 'Source Code Pro',sans-serif ;
+  font-weight: 300;
+  padding-left: 3px;
+  color:#4C5454;
+}
+canvas {
+  display: block;
+}
+h1{
+  margin:5px,10px;
+  padding-left:5px;
+}
+button{
+  position:relative;
+  top:5px;
+  background-color:#EEEEEE;
+  color:#4C5454;
+  font-size: 16px;
+  padding: 6px 10px;
+  border-radius: 4px;
+  border: 2px solid #4C5454;
+margin-left: 6px;
+}
+#subP{
+font-size: 10px;  
+position:relative;
+top:430px;
+left:100px
+}
+p{
+   margin: 2px 2px;
+    padding-left:5px;
+}
